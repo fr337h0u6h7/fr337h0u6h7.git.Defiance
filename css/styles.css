@@ -98,8 +98,25 @@ body
   margin: 0 5px;
 }
 
+#Aftercare-1{
+  text-align: center;
+  font-size: 225%;
+}
 
+#AftercareWriteUp{
+  padding-top: 5%;
+}
 
+#Bluewave1{
+  font-size: 125%;
+  color: lightblue;
+}
+
+#Bluewave2{
+  font-size: 125%;
+  color: lightblue;
+  padding-top: 10%;
+}
 /*                BUTOON STYLE                 */
 .btn {
     border-radius: 0;
