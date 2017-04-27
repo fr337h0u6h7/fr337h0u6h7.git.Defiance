@@ -1,0 +1,115 @@
+body
+{
+	background-color: #000000; 
+	color: #ffffff;
+	font-family: Raleway, sans-serif;
+
+}
+
+
+
+.example3 .navbar-brand {
+  height: 100px;
+  color: white;
+
+}
+
+.example3 .nav >li >a {
+  padding-bottom: 30px;
+  color: white;
+}
+.example3 .navbar-toggle {
+  padding: 10px;
+  margin: 25px 20px 0 0;
+  color: white;
+}
+
+.icon-bar
+{
+	color:white;
+	background-color: white;
+}
+
+.active
+{
+	color: grey;
+}
+
+.navbar-collapse
+{
+	color:;
+}
+
+
+
+#myCarousel
+{
+	margin-top: -40px;
+}
+
+
+.carousel-inner > .item > img {
+    margin-top: 0px;
+    padding-top: 0px;
+    background-size: 200%;
+  width:100%;
+ 
+}
+
+
+
+
+/*this is the piercing pop styles area */
+
+#pi_m
+{
+	margin-top: -30px;
+
+	text-align: center;
+}
+
+
+.popover-content {
+    color: #00000f;
+    	font-size: 125%;
+}
+
+#but1
+{
+	margin-top: 90px;
+	padding: 10px;
+	margin: 30px;
+}
+
+
+
+
+
+
+
+
+/*                BUTOON STYLE                 */
+.btn {
+    border-radius: 0;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin: 2px;
+}
+ 
+.btn:focus, .btn:active:focus, .btn.active:focus {
+    outline: 0 none;
+}
+ 
+.btn-primary {
+    background: #0099cc;
+    color: #ffffff;
+}
+ 
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background: #33a6cc;
+}
+ 
+.btn-primary:active, .btn-primary.active {
+    background: #007299;
+    box-shadow: none;
+}
