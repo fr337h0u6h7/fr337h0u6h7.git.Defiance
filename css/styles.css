@@ -81,9 +81,22 @@ body
 	margin: 30px;
 }
 
+#PiercingContent
+{
+  text-align: center;
+  font-size: 200%;
+}
 
+#listOfPiercings{
+    text-align: left;
+  font-size: 125%;
+}
 
-
+#listof
+{
+  float: left;
+  margin: 0 5px;
+}
 
 
 
