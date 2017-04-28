@@ -119,6 +119,11 @@ body
   color: lightblue;
 }
 
+#Location1{
+    font-size: 200%;
+  color: lightblue;
+  padding-top: 5%;
+}
 #Bluewave2{
   font-size: 125%;
   color: lightblue;
