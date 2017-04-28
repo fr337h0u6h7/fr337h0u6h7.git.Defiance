@@ -56,7 +56,14 @@ body
  
 }
 
+#Phone{
+  text-align: center;
+  font-size: 200%;
+  font-style: bold;
+  color: white;
 
+
+}
 
 
 /*this is the piercing pop styles area */
