@@ -90,7 +90,6 @@ body
 
 #PiercingContent
 {
-  padding-left: 30px;
   padding-bottom: 30px;
   text-align: center;
   font-size: 225%;
@@ -105,6 +104,7 @@ body
 #listof
 {
   float: center;
+  padding-right: 40px;
   margin: 0 5px;
 }
 
