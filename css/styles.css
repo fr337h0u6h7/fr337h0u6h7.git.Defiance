@@ -90,18 +90,21 @@ body
 
 #PiercingContent
 {
+  padding-left: 30px;
+  padding-bottom: 30px;
   text-align: center;
   font-size: 225%;
 }
 
 #listOfPiercings{
-    text-align: left;
+    text-align: center;
   font-size: 125%;
+
 }
 
 #listof
 {
-  float: left;
+  float: center;
   margin: 0 5px;
 }
 
@@ -112,6 +115,11 @@ body
 
 #sean{
    text-align: center;
+}
+
+#sean2{
+   text-align: center;
+   padding-bottom: 50px;
 }
 #AftercareWriteUp{
   padding-top: 5%;
