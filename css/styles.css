@@ -165,3 +165,9 @@ body
     background: #007299;
     box-shadow: none;
 }
+
+.modal-content {
+
+background-color: rgba(0,0,0,.0001) !important;
+
+}
